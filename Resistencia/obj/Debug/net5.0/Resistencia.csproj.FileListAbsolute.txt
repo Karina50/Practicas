@@ -1,0 +1,7 @@
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.csprojAssemblyReference.cache
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.AssemblyInfoInputs.cache
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.AssemblyInfo.cs
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.csproj.CoreCompileInputs.cache
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.MvcApplicationPartsAssemblyInfo.cs
+C:\home\webApiResistencia\Resistencia\obj\Debug\net5.0\Resistencia.MvcApplicationPartsAssemblyInfo.cache
